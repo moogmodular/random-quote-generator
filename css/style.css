@@ -1,0 +1,35 @@
+html, body {
+    padding-top: 70px;
+    min-height: 100%;
+    margin: 0;
+    overflow-x: hidden;
+/*    background-image: url(../img/street.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position:left bottom;*/
+}
+body {
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: 300;
+}
+
+.thumb {
+    /*margin-bottom: 30px;*/
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+footer {
+    margin: 50px 0;
+}
+
+#gen_btn {
+    margin-bottom: 60px;
+}
+.container {
+    border-radius: 5px 20px;
+    background: #f5f5f5;
+    padding: 20px;
+    margin-top: 20px;
+    padding: 60px;
+}

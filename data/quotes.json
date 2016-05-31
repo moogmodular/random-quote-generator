@@ -1,0 +1,302 @@
+[
+    {
+        "quote_id": 0,
+        "author": "David Allen",
+        "quote": "You can do anything, but not everything."
+    },
+    {
+        "quote_id": 1,
+        "author": "Antoine de Saint-Exup'ry",
+        "quote": "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."
+    },
+    {
+        "quote_id": 2,
+        "author": "Unknown Author",
+        "quote": "The richest man is not he who has the most, but he who needs the least."
+    },
+    {
+        "quote_id": 3,
+        "author": "Wayne Gretzky",
+        "quote": "You miss 100 percent of the shots you never take."
+    },
+    {
+        "quote_id": 4,
+        "author": "Ambrose Redmoon",
+        "quote": "Courage is not the absence of fear, but rather the judgement that something else is more important than fear."
+    },
+    {
+        "quote_id": 5,
+        "author": "Gandhi",
+        "quote": "You must be the change you wish to see in the world."
+    },
+    {
+        "quote_id": 6,
+        "author": "Lin-Chi",
+        "quote": "When hungry, eat your rice; when tired, close your eyes. Fools may laugh at me, but wise men will know what I mean."
+    },
+    {
+        "quote_id": 7,
+        "author": "A. A. Milne",
+        "quote": "The third-rate mind is only happy when it is thinking with the majority. The second-rate mind is only happy when it is thinking with the minority. The first-rate mind is only happy when it is thinking."
+    },
+    {
+        "quote_id": 8,
+        "author": "Abraham Maslow",
+        "quote": "To the man who only has a hammer, everything he encounters begins to look like a nail."
+    },
+    {
+        "quote_id": 9,
+        "author": "Aristotle",
+        "quote": "We are what we repeatedly do; excellence, then, is not an act but a habit."
+    },
+    {
+        "quote_id": 10,
+        "author": "Baltasar Gracian",
+        "quote": "A wise man gets more use from his enemies than a fool from his friends."
+    },
+    {
+        "quote_id": 11,
+        "author": "Basho",
+        "quote": "Do not seek to follow in the footsteps of the men of old; seek what they sought."
+    },
+    {
+        "quote_id": 12,
+        "author": "Lao-Tze",
+        "quote": "Watch your thoughts; they become words. Watch your words; they become actions. Watch your actions; they become habits. Watch your habits; they become character. Watch your character; it becomes your destiny."
+    },
+    {
+        "quote_id": 13,
+        "author": "Georg Christoph Lichtenberg",
+        "quote": "Everyone is a genius at least once a year. The real geniuses simply have their bright ideas closer together."
+    },
+    {
+        "quote_id": 14,
+        "author": "John Ruskin",
+        "quote": "What we think, or what we know, or what we believe is, in the end, of little consequence. The only consequence is what we do."
+    },
+    {
+        "quote_id": 15,
+        "author": "Marcel Proust",
+        "quote": "The real voyage of discovery consists not in seeking new lands but seeing with new eyes."
+    },
+    {
+        "quote_id": 16,
+        "author": "Unknown Author",
+        "quote": "Work like you don't need money, love like you've never been hurt, and dance like no one's watching"
+    },
+    {
+        "quote_id": 17,
+        "author": "Virgil Garnett Thomson",
+        "quote": "Try a thing you haven't done three times. Once, to get over the fear of doing it. Twice, to learn how to do it. And a third time, to figure out whether you like it or not."
+    },
+    {
+        "quote_id": 18,
+        "author": "Will Rogers",
+        "quote": "Even if you're on the right track, you'll get run over if you just sit there."
+    },
+    {
+        "quote_id": 19,
+        "author": "Zig Ziglar",
+        "quote": "People often say that motivation doesn't last. Well, neither does bathing ' that's why we recommend it daily."
+    },
+    {
+        "quote_id": 20,
+        "author": "John Wilmot",
+        "quote": "Before I got married I had six theories about bringing up children; now I have six children and no theories."
+    },
+    {
+        "quote_id": 21,
+        "author": "Oscar Levant",
+        "quote": "What the world needs is more geniuses with humility, there are so few of us left."
+    },
+    {
+        "quote_id": 22,
+        "author": "Oscar Wilde",
+        "quote": "Always forgive your enemies; nothing annoys them so much."
+    },
+    {
+        "quote_id": 23,
+        "author": "New York City detective",
+        "quote": "I've gone into hundreds of [fortune-teller's parlors], and have been told thousands of things, but nobody ever told me I was a policewoman getting ready to arrest her."
+    },
+    {
+        "quote_id": 24,
+        "author": "Norm Crosby",
+        "quote": "When you go into court you are putting your fate into the hands of twelve people who weren't smart enough to get out of jury duty."
+    },
+    {
+        "quote_id": 25,
+        "author": "Kurt Vonnegut",
+        "quote": "Those who believe in telekinetics, raise my hand."
+    },
+    {
+        "quote_id": 26,
+        "author": "Carl Sagan",
+        "quote": "Just the fact that some geniuses were laughed at does not imply that all who are laughed at are geniuses. They laughed at Columbus, they laughed at Fulton, they laughed at the Wright brothers. But they also laughed at Bozo the Clown."
+    },
+    {
+        "quote_id": 27,
+        "author": "Jean Rostand",
+        "quote": "My pessimism extends to the point of even suspecting the sincerity of the pessimists."
+    },
+    {
+        "quote_id": 28,
+        "author": "Lily Tomlin",
+        "quote": "Sometimes I worry about being a success in a mediocre world."
+    },
+    {
+        "quote_id": 29,
+        "author": "Richard Lewis",
+        "quote": "I quit therapy because my analyst was trying to help me behind my back."
+    },
+    {
+        "quote_id": 30,
+        "author": "Robert Wilensky",
+        "quote": "We've heard that a million monkeys at a million keyboards could produce the complete works of Shakespeare; now, thanks to the Internet, we know that is not true."
+    },
+    {
+        "quote_id": 31,
+        "author": "Scott Adams",
+        "quote": "If there are no stupid questions, then what kind of questions do stupid people ask? Do they get smart just in time to ask questions?"
+    },
+    {
+        "quote_id": 32,
+        "author": "Anon",
+        "quote": "If the lessons of history teach us anything it is that nobody learns the lessons that history teaches us."
+    },
+    {
+        "quote_id": 33,
+        "author": "Clarence Darrow",
+        "quote": "When I was a boy I was told that anybody could become President. Now I'm beginning to believe it."
+    },
+    {
+        "quote_id": 34,
+        "author": "Cullen Hightower",
+        "quote": "Laughing at our mistakes can lengthen our own life. Laughing at someone else's can shorten it."
+    },
+    {
+        "quote_id": 35,
+        "author": "Cyril Connolly",
+        "quote": "There are many who dare not kill themselves for fear of what the neighbors will say."
+    },
+    {
+        "quote_id": 36,
+        "author": "Dick Cavett",
+        "quote": "There's so much comedy on television. Does that cause comedy in the streets?"
+    },
+    {
+        "quote_id": 37,
+        "author": "H. L. Mencken",
+        "quote": "All men are frauds. The only difference between them is that some admit it. I myself deny it."
+    },
+    {
+        "quote_id": 38,
+        "author": "Victor Hugo",
+        "quote": "I don't mind what Congress does, as long as they don't do it in the streets and frighten the horses."
+    },
+    {
+        "quote_id": 39,
+        "author": "Woody Allen",
+        "quote": "I took a speed reading course and read 'War and Peace' in twenty minutes. It involves Russia."
+    },
+    {
+        "quote_id": 40,
+        "author": "Albert Einstein",
+        "quote": "The person who reads too much and uses his brain too little will fall into lazy habits of thinking."
+    },
+    {
+        "quote_id": 41,
+        "author": "Andr' Gide",
+        "quote": "Believe those who are seeking the truth. Doubt those who find it."
+    },
+    {
+        "quote_id": 42,
+        "author": "Aristotle",
+        "quote": "It is the mark of an educated mind to be able to entertain a thought without accepting it."
+    },
+    {
+        "quote_id": 43,
+        "author": "Aryeh Frimer",
+        "quote": "I'd rather live with a good question than a bad answer."
+    },
+    {
+        "quote_id": 44,
+        "author": "Bill Vaughan",
+        "quote": "We learn something every day, and lots of times it's that what we learned the day before was wrong."
+    },
+    {
+        "quote_id": 45,
+        "author": "Blaise Pascal",
+        "quote": "I have made this letter longer than usual because I lack the time to make it shorter."
+    },
+    {
+        "quote_id": 46,
+        "author": "Cale Yarborough",
+        "quote": "Don't ever wrestle with a pig. You'll both get dirty, but the pig will enjoy it."
+    },
+    {
+        "quote_id": 47,
+        "author": "Charles F. Kettering",
+        "quote": "An inventor is simply a fellow who doesn't take his education too seriously."
+    },
+    {
+        "quote_id": 48,
+        "author": "Christopher Hampton",
+        "quote": "Asking a working writer what he thinks about critics is like asking a lamppost how it feels about dogs."
+    },
+    {
+        "quote_id": 49,
+        "author": "Cyril Connolly",
+        "quote": "Better to write for yourself and have no public, than to write for the public and have no self."
+    },
+    {
+        "quote_id": 50,
+        "author": "Dame Edna Everage",
+        "quote": "Never be afraid to laugh at yourself, after all, you could be missing out on the joke of the century."
+    },
+    {
+        "quote_id": 51,
+        "author": "Edith Sitwell",
+        "quote": "I am patient with stupidity but not with those who are proud of it."
+    },
+    {
+        "quote_id": 52,
+        "author": "Ellen Goodman",
+        "quote": "Normal is getting dressed in clothes that you buy for work and driving through traffic in a car that you are still paying for ' in order to get to the job you need to pay for the clothes and the car, and the house you leave vacant all day so you can afford to live in it."
+    },
+    {
+        "quote_id": 53,
+        "author": "Ellen Parr",
+        "quote": "The cure for boredom is curiosity. There is no cure for curiosity."
+    },
+    {
+        "quote_id": 54,
+        "author": "Erica Jong",
+        "quote": "Advice is what we ask for when we already know the answer but wish we didn't."
+    },
+    {
+        "quote_id": 55,
+        "author": "Gordon R. Dickson",
+        "quote": "Some people like my advice so much that they frame it upon the wall instead of using it."
+    },
+    {
+        "quote_id": 56,
+        "author": "Lily Tomlin",
+        "quote": "The trouble with the rat race is that even if you win, you're still a rat."
+    },
+    {
+        "quote_id": 57,
+        "author": "Napoleon (Hanlon's Razor)",
+        "quote": "Never ascribe to malice, that which can be explained by incompetence."
+    },
+    {
+        "quote_id": 58,
+        "author": "Oscar Wilde",
+        "quote": "Imagination was given to man to compensate him for what he is not, and a sense of humor was provided to console him for what he is."
+    },
+    {
+        "quote_id": 59,
+        "author": "Thomas Szasz",
+        "quote": "When a person can no longer laugh at himself, it is time for others to laugh at him."
+    }
+]
